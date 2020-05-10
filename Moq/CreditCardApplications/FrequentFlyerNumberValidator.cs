@@ -31,5 +31,11 @@ namespace CreditCardApplications
                 throw new NotImplementedException("For demo only");
             }
         }
+
+        public ValidationMode ValidationMode
+        {
+            get => throw new NotImplementedException("For demo only");
+            set => throw new NotImplementedException("For demo only");
+        }
     }
 }
